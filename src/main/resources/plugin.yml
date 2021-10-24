@@ -1,0 +1,7 @@
+name: <%PROJECT_NAME%>
+version: 1.0
+main: com.justintaddei.<%PROJECT_NAME_LOWER%>.<%PROJECT_NAME%>
+api-version: <%MCVER%>
+authors: [ justintaddei ]
+description: <%PROJECT_NAME%> by Justin Taddei
+website: justintaddei.com
